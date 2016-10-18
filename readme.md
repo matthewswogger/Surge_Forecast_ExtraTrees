@@ -1,6 +1,7 @@
 # Surge Forecast
 
-Matthew Swogger, October 2016
+This repo forecasts the Surge multiplier using ExtraTreesRegressor 3 minutes
+into the future.
 
 ## Inspiration
 
