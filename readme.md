@@ -1,5 +1,4 @@
-## Inspiration
-
+# Inspiration
 My capstone project for Galvanize Data Science Immersive was about forecasting
 the Surge multiplier for Uber Rideshare drivers. The idea was to see if I could
 tell drivers where and at what value the surge would be before it happened.
