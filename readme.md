@@ -1,8 +1,3 @@
-# Surge Forecast
-
-This repo forecasts the Surge multiplier using ExtraTreesRegressor 3 minutes
-into the future.
-
 ## Inspiration
 
 My capstone project for Galvanize Data Science Immersive was about forecasting
